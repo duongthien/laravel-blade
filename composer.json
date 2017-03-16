@@ -1,0 +1,21 @@
+{
+    "name": "duongthien/laravel-blade",
+    "description": "Use the simple and yet powerful Laravel Blade templating engine as a standalone component.",
+    "keywords": ["laravel", "blade"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Duong Thien",
+            "email": "me@duongthien.com"
+        }
+    ],
+    "require": {
+        "illuminate/view": "~5",
+        "illuminate/events": "~5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Duongthien\\Blade\\": "src"
+        }
+    }
+}
