@@ -1,5 +1,5 @@
 ### Installation (Blade Laravel 5.1)
-The package can be installed via Composer by requiring the "duongthien/laravel-blade": "3.*" package in your project's composer.json.
+The package can be installed via Composer by requiring the "duongthien/laravel-blade": "3.*" package in your project's composer.json..
 
 ```json
 {
